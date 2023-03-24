@@ -1,0 +1,6 @@
+Atlassin Bamboo ---> bamboo is nothing but one of the atlassian product developed ina java language developed by an autralian company the main purpose of bamboo is build and deployment(ci/cd)continution integration and continution deployment
+Bamboo default port number --->8085
+what are all the important features in bamboom they are 1)project creation    2)plan creation
+3)linked repositories---->GIT/SVN/BITBUCket/cloud etc..,
+build jobs(ant--->build.xml
+           maven--->pom.xml)
